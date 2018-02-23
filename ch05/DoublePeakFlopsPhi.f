@@ -30,7 +30,8 @@
         !
 	! REFERENCES
 	! Rahman, "Intel Xeon Phi Coprocessor Architecture and Tools:
-        ! The Guide for Application Developers" MIT press (2014)
+	! The Guide for Application Developers" Apress (2013)
+	! https://doi.org/10.1007/978-1-4302-5927-5
 	!
 	! ACKNOWLEDGEMENTS
 	! The program below is based on a C version by Rahman, R.
