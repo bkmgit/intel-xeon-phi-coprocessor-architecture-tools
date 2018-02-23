@@ -50,7 +50,7 @@
 	! 
 	! External libraries required
 	! OpenMP library
-        ! XeonPhi offload library
+	! XeonPhi offload library
     	PROGRAM maxflops
     	USE omp_lib
     	!USE mic_lib 
