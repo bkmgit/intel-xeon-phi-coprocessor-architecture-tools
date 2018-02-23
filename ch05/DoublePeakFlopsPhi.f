@@ -35,8 +35,8 @@
 	!
 	! ACKNOWLEDGEMENTS
 	! The program below is based on a C version by Rahman, R.
-        ! given in Listing 4-1 of Intel Xeon Phi Coprocessor Architecture and Tools:
-        ! The Guide for Application Developers 
+	! given in Listing 4-1 of Intel Xeon Phi Coprocessor Architecture and Tools:
+	! The Guide for Application Developers 
 	!
 	! ACCURACY
 	!		
