@@ -31,13 +31,13 @@
         !
 	! REFERENCES
 	! Rahman "Intel Xeon Phi Coprocessor Architecture and Tools:
-        ! The Guide for Application Developers" Apress (2013)
+	! The Guide for Application Developers" Apress (2013)
 	! https://doi.org/10.1007/978-1-4302-5927-5
 	!
 	! ACKNOWLEDGEMENTS
-	! The program below is based on a C version by ,
-        ! given in Listing 4-1 of Intel Xeon Phi Coprocessor Architecture and Tools:
-        ! The Guide for Application Developers 
+	! The program below is based on a C version by 
+	! given in Listing 4-1 of Intel Xeon Phi Coprocessor Architecture and Tools:
+	! The Guide for Application Developers 
 	!
 	! ACCURACY
 	!		
