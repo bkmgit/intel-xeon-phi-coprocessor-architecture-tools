@@ -20,14 +20,14 @@
 	!  j                    = loop counter
 	!  randnum              = random number generated from (0,1) uniform 
 	!                       distribution
-        ! start                 = start time of flop counting iterations
-        ! finish                = end time of flop counting iterations 
+	! start                 = start time of flop counting iterations
+	! finish                = end time of flop counting iterations 
 	! .. Arrays ..
 	!
 	! .. Vectors ..
 	! a(1:size)       = vector for doing addition
-        ! b(1:size)       = one input vector
-        ! c(1:size)       = second input vector
+	! b(1:size)       = one input vector
+	! c(1:size)       = second input vector
         !
 	! REFERENCES
 	! Rahman "Intel Xeon Phi Coprocessor Architecture and Tools:
