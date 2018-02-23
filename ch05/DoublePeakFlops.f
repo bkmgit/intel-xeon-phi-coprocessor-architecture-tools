@@ -20,23 +20,24 @@
 	!  j                    = loop counter
 	!  randnum              = random number generated from (0,1) uniform 
 	!                       distribution
-  ! start                 = start time of flop counting iterations
-  ! finish                = end time of flop counting iterations 
+        ! start                 = start time of flop counting iterations
+        ! finish                = end time of flop counting iterations 
 	! .. Arrays ..
 	!
 	! .. Vectors ..
 	! a(1:size)       = vector for doing addition
-  ! b(1:size)       = one input vector
-  ! c(1:size)       = second input vector
-  !
+        ! b(1:size)       = one input vector
+        ! c(1:size)       = second input vector
+        !
 	! REFERENCES
-	! Gropp, Lusk and Skjellum, "Intel Xeon Phi Coprocessor Architecture and Tools:
-  ! The Guid for Application Developers" MIT press (2014)
+	! Rahman "Intel Xeon Phi Coprocessor Architecture and Tools:
+        ! The Guide for Application Developers" Apress (2013)
+	! https://doi.org/10.1007/978-1-4302-5927-5
 	!
 	! ACKNOWLEDGEMENTS
 	! The program below is based on a C version by ,
-  ! given in Listing 4-1 of Intel Xeon Phi Coprocessor Architecture and Tools:
-  ! The Guide for Application Developers 
+        ! given in Listing 4-1 of Intel Xeon Phi Coprocessor Architecture and Tools:
+        ! The Guide for Application Developers 
 	!
 	! ACCURACY
 	!		
@@ -49,7 +50,7 @@
 	! 
 	! External libraries required
 	! OpenMP library
-  ! XeonPhi offload library
+        ! XeonPhi offload library
     	PROGRAM maxflops
     	USE omp_lib
     	!USE mic_lib 
